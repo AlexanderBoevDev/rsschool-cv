@@ -9,7 +9,6 @@
 
 ### My education
 Bachelor's degree, Non-state educational private institution of higher education "Moscow Financial and Industrial University "Synergy".
-Profession web developers.
 
 ### About me
 I have a lot of experience in developing websites on CMS Drupal, my path of developing myself as a Drupal developer began back in 2009.
