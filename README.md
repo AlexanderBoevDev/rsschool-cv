@@ -1,3 +1,3 @@
-Markdown CV https://AlexanderBoevDev.github.io/rsschool-cv/cv
+https://AlexanderBoevDev.github.io/rsschool-cv/cv Markdown CV
 
-HTML CV https://AlexanderBoevDev.github.io/rsschool-cv/
+https://AlexanderBoevDev.github.io/rsschool-cv/ HTML CV
