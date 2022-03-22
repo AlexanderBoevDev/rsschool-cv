@@ -493,6 +493,12 @@ main {
     }
 }
 
+.sidebar {
+    position: sticky;
+    top: 6.5rem;
+    margin-bottom: 1.5rem;
+}
+
 .location,
 .email {
     display: flex;
@@ -565,6 +571,10 @@ main {
     height: 1px;
     background: var(--gray-dark);
     margin: 1rem 0 2rem;
+}
+
+.card__line .col-12:last-child .card-items:after {
+    display: none;
 }
 
 .card p:last-child {
@@ -645,6 +655,13 @@ main {
 
 .card-subtitle__gray {
     color: var(--gray);
+}
+
+a.link-web {
+    text-decoration: underline;
+}
+.mb-3 {
+    margin: 0 0 1rem!important;
 }
 
 .skills-levels {
