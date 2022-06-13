@@ -534,6 +534,10 @@ main {
     background-color: var(--dark);
 }
 
+.text-centre {
+    text-align: center;
+}
+
 #projects {
     margin: 1.5rem 0 0;
 }
@@ -577,6 +581,10 @@ main {
     display: none;
 }
 
+.card__cert {
+    padding: 1.5rem 1.5rem .5rem;
+}
+
 .card p:last-child {
     margin-bottom: 0;
 }
@@ -595,9 +603,16 @@ main {
     font-size: calc(1rem + 0.6vw);
 }
 
+.card-subtitle.card-subtitle__cert {
+    font-size: calc(.75rem + .25vw);
+}
+
 @media (min-width: 1200px) {
     .card-subtitle {
         font-size: 1.1rem;
+    }
+    .card-subtitle.card-subtitle__cert {
+        font-size: calc(.5rem + .5vw);
     }
 }
 
@@ -641,6 +656,12 @@ main {
 
 .card-subtitle__date {
     font-size: calc(0.85rem + 0.6vw);
+}
+
+.card-subtitle__info {
+    font-size: calc(0.85rem + 0.1vw);
+    font-weight: 400;
+    font-style: italic;
 }
 
 @media (min-width: 1200px) {
