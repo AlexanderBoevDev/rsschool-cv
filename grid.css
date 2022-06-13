@@ -80,6 +80,7 @@ h6, .h6 {
 
 p {
   margin: 0 0 0.5rem;
+  line-height: 1.35;
 }
 
 a {
@@ -106,6 +107,14 @@ svg {
   position: absolute;
   top: 1rem;
   left: 1rem;
+}
+
+.blockquote a {
+  text-decoration: underline;
+}
+
+.blockquote a:hover,.blockquote a:active,.blockquote a:focus {
+  text-decoration: none;
 }
 
 ol,
